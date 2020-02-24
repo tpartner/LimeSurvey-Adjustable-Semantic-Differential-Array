@@ -1,5 +1,6 @@
 # An Adjustable Semantic Differential Array question for LimeSurvey
 **A semantic differential array question in which you can move the position of the last answer column.**
+
 This may be useful if:
 - You want to have a "No Answer" item outside of the semantic differential layout in a mandatory question.
 - You want to place a column before the semantic differential layout.
