@@ -1,4 +1,4 @@
-# An Adjustable Semantic Differential Array question for LimeSurvey
+# An Adjustable Semantic Differential Array question for LimeSurvey version 3.x
 **A semantic differential array question in which you can move the position of the last answer column.**
 
 This may be useful if:
@@ -9,7 +9,7 @@ This may be useful if:
 
 **Implementation:**
 
-1) Extract the download and upload the **Adjustable-Semantic-Diff-Array** folder to */pathToLimeSurvey/upload/themes/question/*. (In LS4, you can import the zip file via the Question themes interface)
+1) Extract the download and upload the **Adjustable-Semantic-Diff-Array** folder to */pathToLimeSurvey/upload/themes/question/*.
 
 2) Create an Array type question, click Save. 
 
